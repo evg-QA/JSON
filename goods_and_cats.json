@@ -1,0 +1,39 @@
+{
+  "type": "cats",
+  "city": "TO",
+  "kennel": "woollen lumps",
+  "Cats": [
+    {
+      "type": "cat",
+      "name": "Shebi",
+      "age": 2,
+      "bread": "maine coon"
+    },
+    {
+      "type": "cat",
+      "name": "Markis",
+      "age": 3,
+      "exhibitions": 12,
+      "bread": "british longhair"
+    },
+    {
+      "type": "cat",
+      "name": "Luna",
+      "age": 6,
+      "awards": 7,
+      "bread": "burmilla"
+    }
+  ],
+  "Goods": [
+    {
+      "type": "meal",
+      "waight": "8kg",
+      "tasty": "salty"
+    },
+    {
+      "type": "clothes",
+      "color": "grey",
+      "size": "3"
+    }
+  ]
+}
